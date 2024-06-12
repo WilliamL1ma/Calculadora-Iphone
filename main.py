@@ -131,3 +131,4 @@ def main(page: flet.Page):
 
 # Inicializa o aplicativo Flet com a função main
 flet.app(target=main)
+
